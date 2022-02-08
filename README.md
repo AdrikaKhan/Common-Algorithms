@@ -1,5 +1,6 @@
 # Common-Algorithms
-Common algorithm implementation as I practice by myself
+Common algorithm implementation as I practice by myself.
+
 Target to complete:
 1. Logarithm
 2. DFS, BFS, some sort of graph traversal
@@ -10,5 +11,5 @@ Target to complete:
 7. Suffix tree (its a data structure)
 8. Heaps (min heaps, max heaps -> they have logarithmic value)
 9. Dynamic programming
-10. Sorting algorithms (all are important but quicksort and mergesort are really important) -> PARTIALLY DONE
+10. Sorting algorithms (all are important but quicksort and mergesort are really important) -> DONE
 
