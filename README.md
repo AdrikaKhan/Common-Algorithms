@@ -5,7 +5,7 @@ Target to complete:
 1. Logarithm
 2. DFS, BFS, some sort of graph traversal -> DONE
 3. Binary Search (comfortable implementing it) -> DONE
-4. Sliding window technique
+4. Sliding window technique 
 5. Recursion (in order traversal etc)
 6. Inverting binary tree and reverse linked tree
 7. Suffix tree (its a data structure)

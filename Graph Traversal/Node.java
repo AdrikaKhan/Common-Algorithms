@@ -3,6 +3,8 @@ import java.util.ArrayList;
 public class Node{
 
     int value;
+    Node left; //for binary tree algorithm
+    Node right; //for binary tree algorithm
     ArrayList <Node> children;
     
     public Node(){
